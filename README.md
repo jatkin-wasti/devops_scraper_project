@@ -19,3 +19,5 @@
 ```
 - All tests should now pass (other than one specific test in the `html_object_manager.py` but we expect this to fail
  locally so this is fine!)
+ ## Jenkins CI
+ 
